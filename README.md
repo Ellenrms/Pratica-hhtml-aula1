@@ -1,2 +1,2 @@
-# Pratica-hhtml-aula1
+# Pratica-html-aula1
 Primeiro código HTML
